@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1053704629039",
+    "firebase_url": "https://qburst-com-api-project-1053704629039.firebaseio.com",
+    "project_id": "qburst.com:api-project-1053704629039",
+    "storage_bucket": "qburst.com:api-project-1053704629039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053704629039:android:43b7328d1192a962",
+        "android_client_info": {
+          "package_name": "com.yourcompany.maap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053704629039-07hn6as54jlvm6vnbv2oefqfjndr4rm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourcompany.maap",
+            "certificate_hash": "d208cb9e443ec26ed8a2829a606979390f3c3cff"
+          }
+        },
+        {
+          "client_id": "1053704629039-lqetnh0hmeqopuadkhpbuj1n1rj2qobt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnu5uNh2B-q6DyhNu-CkTueNc9FWXH0OE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053704629039-lqetnh0hmeqopuadkhpbuj1n1rj2qobt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
